@@ -1,0 +1,14 @@
+# Reflection from the Course
+
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs involves actively engaging with stakeholders to understand their goals, challenges, and expectations. I start by gathering detailed requirements through interviews, surveys, or meetings, and then translate those requirements into clear, actionable objectives. Creating user stories is a crucial part of this process, as they allow me to capture the essence of what the user wants in a simple, understandable format. 
+
+User stories typically follow the format of "As a [user], I want [feature], so that [benefit]." This structure helps break down complex requirements into smaller, manageable tasks that can be prioritized and developed incrementally. By focusing on user stories, I ensure that the development process remains user-centered, making it easier to deliver a product that truly meets the users' needs.
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+My approach to developing programs is centered around flexibility, iterative improvement, and continuous feedback. I begin with a clear understanding of the project’s goals, and then break the work down into smaller, manageable tasks, often guided by user stories. Agile processes play a significant role in this approach. I prioritize regular communication and collaboration with stakeholders and the development team, which is facilitated through Agile practices like sprint planning, daily stand-ups, and sprint reviews. These processes allow for ongoing feedback, enabling me to make adjustments as the project progresses. In the future, I plan to incorporate these Agile practices into my work, as they help maintain a clear focus on delivering value to the user while also being adaptable to changes and new insights that may arise during development.
+
+## What does it mean to be a good team member in software development?
+Being a good team member in software development means more than just completing your assigned tasks; it involves actively contributing to the team’s success through collaboration, clear communication, and mutual support. A good team member is someone who listens to others, shares knowledge, and helps solve problems collectively. They are reliable and take responsibility for their work, but they also recognize when others might need assistance and are willing to step in to help. 
+
+Additionally, being a good team member involves being open to feedback and using it to improve both individual and team performance. In a software development environment, where projects are often complex and dynamic, the ability to work well with others is crucial to delivering a successful product.
